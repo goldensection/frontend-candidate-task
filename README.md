@@ -1,5 +1,7 @@
 # Interview Question IGG
 
+![Screenshot of the application](./screenshot.png)
+
 You're building a [cellular automata simulator](https://en.wikipedia.org/wiki/Cellular_automaton). In particular you are building one for Game Of Life.
 
 A cellular automata is defined as:
