@@ -30,7 +30,7 @@ We already decided which technologies to use for this project, mainly React, sty
 1. Change the `createBoard` method to randomly set `false`/`true` for each cell.
 2. Implement the `setAlive` method, which sets a cell to true. It should be shown as black, when functional.
 3. Make the Game Of Life simulator functional by implementing the `getNeighbours` and `step` function.
-4. Make it possible, that one can actually draw the cells, instead of clicking on each of them.
+4. Make it possible, that one can actually draw the cells, instead of clicking on each of them. In other words: when you keep pressing the mouse button and move it, all fields below the mouse will turn alive.
 5. Implement a _PLAY_ and _PAUSE_ button. When the play button is active, a new iteration should be created every 200ms.
 6. Bonus (optional): Implement a history, which you can access using a _PREVIOUS ITERATION_ Button. The current iteration should be shown using a counter somewhere.
 
