@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "interview-question",
   "version": "1.0.0",
   "description": "Interview question for frontend at the IGG",
